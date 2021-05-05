@@ -2,7 +2,7 @@
 
 Is a program that lets you use all the functions of a bank
 
-Allows you to
+# Allows you to
 
 -Creat Account
 
@@ -17,7 +17,7 @@ Allows you to
 
 As well as save your account information onto a text file acting as a database.
 
-#How to run
+# How to run
 
 g++ Account.cpp Account.h Bank.cpp Bank.h Client.cpp
 
